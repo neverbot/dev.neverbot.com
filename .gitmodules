@@ -1,3 +1,6 @@
 [submodule "pixelazr"]
 	path = pixelazr
 	url = https://github.com/neverbot/pixelazr.git
+[submodule "okinawa-asteroids"]
+	path = okinawa-asteroids
+	url = https://github.com/neverbot/okinawa-asteroids.git
