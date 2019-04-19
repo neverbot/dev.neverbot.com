@@ -1,0 +1,3 @@
+[submodule "pixelazr"]
+	path = pixelazr
+	url = https://github.com/neverbot/pixelazr.git
