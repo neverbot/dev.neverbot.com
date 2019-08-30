@@ -5769,6 +5769,10 @@ function addEvent(evnt, elem, func) {
 function getProtocolAndHost() {
   var result = '';
 
+  if (window.location.href) {
+    return window.location.href;
+  }
+
   if (window.location.protocol != 'file:') {
     result += window.location.protocol + '//';
   }
