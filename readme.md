@@ -1,4 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5120c49d-b61b-4b02-8862-aa642a871ca9/deploy-status)](https://app.netlify.com/sites/focused-golick-9da1ae/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13a85032-c68b-4f02-badc-68ef43ac412f/deploy-status)](https://app.netlify.com/sites/zen-panini-2ac85c/deploys)
 
 # dev.neverbot.com
+
 Minimal development portfolio of some of my projects.
