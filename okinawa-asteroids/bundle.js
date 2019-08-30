@@ -6489,7 +6489,7 @@ function () {
       // xStart, yStart, width, height, frames, initFrame, speed)
       _engine["default"].preloader.addSprite({
         name: 'starship',
-        path: './assets/images/ship.png',
+        path: 'assets/images/ship.png',
         width: 50,
         height: 50
       }); // **************
@@ -6499,7 +6499,7 @@ function () {
 
       _engine["default"].preloader.addSprite({
         name: 'meteor',
-        path: './assets/images/meteor.png',
+        path: 'assets/images/meteor.png',
         width: 60,
         height: 60
       }); // **************
@@ -6509,7 +6509,7 @@ function () {
 
       _engine["default"].preloader.addSprite({
         name: 'shot',
-        path: './assets/images/shot.png',
+        path: 'assets/images/shot.png',
         width: 10,
         height: 10
       }); // **************
@@ -6519,7 +6519,7 @@ function () {
 
       _engine["default"].preloader.addAnimation({
         name: 'explosion',
-        path: './assets/images/effect.explosion.png',
+        path: 'assets/images/effect.explosion.png',
         xStart: 0,
         yStart: 0,
         width: 48,
@@ -6531,7 +6531,7 @@ function () {
 
       _engine["default"].preloader.addSprite({
         name: 'halo',
-        path: './assets/images/effect.halo.png',
+        path: 'assets/images/effect.halo.png',
         width: 63,
         height: 63
       }); // **************
@@ -6541,12 +6541,12 @@ function () {
 
       _engine["default"].preloader.addSound({
         name: 'explosion',
-        path: './assets/sounds/fridobeck_explosion.mp3'
+        path: 'assets/sounds/fridobeck_explosion.mp3'
       });
 
       _engine["default"].preloader.addSound({
         name: 'shot',
-        path: './assets/sounds/halgrimm_shot.mp3'
+        path: 'assets/sounds/halgrimm_shot.mp3'
       }); // **************
       //  Fonts
       // **************
@@ -6554,7 +6554,7 @@ function () {
 
       _engine["default"].preloader.addFont({
         name: 'baseFont',
-        path: './assets/fonts/visitor1.ttf'
+        path: 'assets/fonts/visitor1.ttf'
       }); // First screen: preloader with progress bar
 
 
