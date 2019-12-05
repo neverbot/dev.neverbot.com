@@ -2,4 +2,4 @@
 
 # dev.neverbot.com
 
-Minimal development portfolio of some of my projects.
+Minimal development portfolio/collection of some of my projects.
